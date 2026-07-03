@@ -19,8 +19,6 @@
 💻 Passionate about **Frontend Development** and **DSA with Java**
 
 🌱 Currently learning:
-- Java
-- JavaScript
 - Frontend Development
 
 🚀 I enjoy building responsive, user-friendly web applications while strengthening my programming fundamentals through hands-on projects.
@@ -47,7 +45,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,github,vscode"/>
 
 </p>
 
@@ -57,11 +55,13 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dristiagarwal25&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dristiagarwal25&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dristiagarwal25&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dristiagarwal25&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
 
 ---
 
@@ -108,7 +108,8 @@
 ## 🚀 Current Focus
 
 - 🌐 Building Frontend Projects
-- ☕ Learning Java(DSA)
+- ☕ Java Programming
+- 📚 Data Structures & Algorithms
 - ⚙️ Exploring Backend Development
 - 📚 Improving Problem Solving
 
