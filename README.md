@@ -88,12 +88,12 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dristiagarwal25/dristiagarwal25/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 ---
 
 # 🏆 GitHub Trophies
